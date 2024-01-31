@@ -1,0 +1,2 @@
+INSTALL:
+    1.pip installed django, django-rest-framework, django-cors-headers, django rest framework-simple jwt, PyJWT
