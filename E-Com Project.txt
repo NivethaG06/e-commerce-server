@@ -1,0 +1,67 @@
+SYSTEM DESIGN:
+	1.https://www.youtube.com/watch?v=E-KW1O3hLSg&ab_channel=PratikshaBakrola
+
+Authorization:
+	1.https://www.youtube.com/watch?v=O1cRJWYF-g4&ab_channel=ByteByteGo
+	2.https://www.youtube.com/watch?v=P2CPd9ynFLg&ab_channel=ByteByteGo
+	3.https://www.youtube.com/watch?v=EzRPxLlf9lo&ab_channel=Hacker%27sSecurity
+	4.https://www.youtube.com/watch?v=Bj8it1RUNlU&ab_channel=LearnAutomationOnline
+	5.https://www.youtube.com/watch?v=EJ_CqbdqZ08&ab_channel=WorkOS
+	6.https://www.youtube.com/watch?v=qgpsIBLvrGY&ab_channel=StudyingWithAlex
+	7. protocol  - https://www.youtube.com/watch?v=gvEoL6ZFIaE&ab_channel=AnandSeetharam
+	JWT (JSON Web Tokens)- It is just a token format. JWT tokens are JSON encoded data structures containing information about issuer, subject (claims), expiration time etc. It is signed for tamper proof and authenticity and it can be encrypted to protect the token information using symmetric or asymmetric approach. JWT is simpler than SAML 1.1/2.0 and supported by all devices and it is more powerful than SWT(Simple Web Token).
+
+OAuth2 - OAuth2 solves a problem in which user wants to access the data using client software like browser-based web apps, native mobile apps or desktop apps. OAuth2 is just for authorization, client software can be authorized to access the resources on-behalf of end user using access token.
+
+OpenID Connect - OpenID Connect builds on top of OAuth2 and add authentication. OpenID Connect add some constraint to OAuth2 like UserInfo Endpoint, ID Token, discovery and dynamic registration of OpenID Connect providers and session management. JWT is the mandatory format for the token.
+
+CSRF protection - You don't need implement the CSRF protection if you do not store token in the browser's cookie.
+
+OFFICAL DOCUMENTATION FOR SIMPLE JWT:
+	https://django-rest-framework-simplejwt.readthedocs.io/en/latest/index.html?source=post_page-----3dce2c8ace48--------------------------------
+
+MUST READ:
+	https://dev.to/wiseai/continue-using-env-files-as-usual-2am5
+	https://thenewstack.io/the-different-token-types-and-formats-explained/
+	https://openjdk.org/jeps/180 - hashmap
+	ttps://bugs.openjdk.org/projects/JDK/issues/JDK-8300604?filter=allopenissues 
+
+MUST WATCH:
+	1.https://www.youtube.com/watch?v=HMoFvRK4HUo&list=PLIFyRwBY_4bTwRX__Zn4-letrtpSj1mzY&ab_channel=PracticalNetworking
+	2.https://www.youtube.com/watch?v=4Jk_I-cw4WE&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ&ab_channel=PwnFunction
+	3.https://www.youtube.com/watch?v=hkhyKJj28Ac&ab_channel=Hallden
+
+API-GATEWAY:
+	1.https://www.youtube.com/watch?v=RbMxB_Cyx6A&ab_channel=GauravSen
+
+CHANNEL SYSTEM DESIGN:
+	1.https://www.youtube.com/@interviewpen/videos
+	2.https://www.youtube.com/@codeKarle
+	3.https://www.youtube.com/@ByteMonk
+
+MULTI WAY AUTHENTICATION:
+	1.https://www.youtube.com/watch?v=YA4ZPKTPicw&list=PLgjw1dR712jr9OIvqyKntapFHndc0SwsP&ab_channel=Pyplane
+	2.https://www.youtube.com/watch?v=9eHDtty5ijk&ab_channel=NYJavaSIG
+BASE64:
+	https://www.youtube.com/watch?v=wdeZIOJjjdE&ab_channel=codedamn
+
+DATA STRUCTURE:
+	1.begineer -https://leetcode.com/problems/valid-anagram/solutions/3687854/3-method-s-c-java-python-beginner-friendly
+
+LATENCY NUMBERS:
+	1.https://www.youtube.com/watch?v=FqR5vESuKe0&ab_channel=ByteByteGo
+
+AWS:
+	https://www.youtube.com/watch?v=5RVT3BN9Iws
+	https://www.youtube.com/watch?v=7PFkYw_S5s4
+
+GIT HUB SEO:
+	1.https://www.developermarkepear.com/blog/github-search-engine-optimization
+	2.https://danvdk.medium.com/github-stars-and-the-h-index-a-journey-c104cfe37da6
+
+
+
+QUESTIONS TO READ:
+1.how inboud serverice works , the principle behind it?
+2.how kafka can process the onboared product for a particular  customer?
+3.How servericability+TAT(turn around time) is able to predict whether its able to deliver the product to that particular location and based on other contraints like weight of the product,time to deilver
